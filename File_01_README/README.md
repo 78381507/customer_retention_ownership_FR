@@ -15,7 +15,7 @@ Ce document de 2 pages présente :
 - Le périmètre de responsabilité assumé
 - Les limites explicites du système
 
-  **[Documents annexes](https://github.com/78381507/customer_retention_ownership_FR/tree/main/File_03_Docs)**
+**[Documents annexes](https://github.com/78381507/customer_retention_ownership_FR/tree/main/File_03_Docs)**
 - Diagramme pipeline (retention_pipeline_FR.png)
 - Note annexe définition Customer Retention (PDF)
 
