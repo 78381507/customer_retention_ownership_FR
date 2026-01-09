@@ -40,7 +40,7 @@ L'implémentation technique complète (architecture SQL, règles de calcul, cont
 
 ## 📊 Visualisation
 
-![Architecture du système](./docs/retention_pipeline.png)
+![Architecture du système](https://github.com/78381507/customer_retention_ownership_FR/blob/main/retention_pipeline.png)
 
 *Architecture décisionnelle en 5 couches : Faits → Statut → Risque → Tendances → Actions*
 
@@ -62,7 +62,6 @@ Data Analyst | Customer Retention Ownership
 **Contact :**
 - Email : tilkinanalytics@gmail.com
 - LinkedIn : [François Tilkin](https://www.linkedin.com/in/françois-tilkin-1667b138a/)
-- Localisation : Belgique | Cible : Luxembourg, Suisse
 
 ---
 
