@@ -34,7 +34,7 @@ L'implémentation technique complète (architecture SQL, règles de calcul, cont
 
 **Accès disponible sur demande :**
 - Email : tilkinanalytics@gmail.com
-- LinkedIn : [François Tilkin](https://www.linkedin.com/in/fran%C3%A7ois-tilkin)
+- LinkedIn : [François Tilkin](https://www.linkedin.com/in/françois-tilkin-1667b138a/)
 
 ---
 
