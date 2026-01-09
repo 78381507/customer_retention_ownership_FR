@@ -61,7 +61,7 @@ Data Analyst | Customer Retention Ownership
 
 **Contact :**
 - Email : tilkinanalytics@gmail.com
-- LinkedIn : [François Tilkin](https://www.linkedin.com/in/fran%C3%A7ois-tilkin)
+- LinkedIn : [François Tilkin](https://www.linkedin.com/in/françois-tilkin-1667b138a/)
 - Localisation : Belgique | Cible : Luxembourg, Suisse
 
 ---
