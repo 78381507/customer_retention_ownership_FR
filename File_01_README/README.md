@@ -6,7 +6,7 @@
 
 ## Documentation
 
-**[→ Le Résumé Exécutif](https://github.com/78381507/customer_retention_ownership_FR/blob/main/File_02_Resume_Executif/resume_executif.md)**
+**[Résumé Exécutif](https://github.com/78381507/customer_retention_ownership_FR/blob/main/File_02_Resume_Executif/resume_executif.md)**
 
 Ce document de 2 pages présente :
 - Le problème business résolu
