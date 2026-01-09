@@ -1,3 +1,27 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Système Customer Retention Ownership
 
 **Résumé exécutif en français du système d'ownership de la rétention client**
@@ -14,6 +38,10 @@ Ce document de 2 pages présente :
 - La valeur apportée à chaque équipe (Marketing, Produit, Finance, Data)
 - Le périmètre de responsabilité assumé
 - Les limites explicites du système
+
+  **[Documents annexes](./File_03_Docs/)**
+- Diagramme pipeline (retention_pipeline_FR.png)
+- Note annexe définition Customer Retention (PDF)
 
 ---
 
