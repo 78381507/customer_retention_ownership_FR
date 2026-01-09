@@ -106,4 +106,4 @@ L'objectif n'est pas de produire plus de métriques, mais de permettre aux équi
 **François Tilkin**  
 Data Analyst | Customer Retention Ownership  
 tilkinanalytics@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/fran%C3%A7ois-tilkin)
+![LinkedIn](www.linkedin.com/in/françois-tilkin-1667b138a/)
