@@ -57,7 +57,7 @@ Data Analyst | Customer Retention Ownership
 
 **Portfolio :**
 - UK Retail Europe Analytics System (dashboards Looker Studio + automatisation Make.com)
-- Customer Retention Ownership System (architecture décisionnelle 5-layer)
+- Customer Retention Ownership (architecture décisionnelle 5-layer)
 
 **Certifications :**
 - Google Data Analytics Professional Certificate (93%)
