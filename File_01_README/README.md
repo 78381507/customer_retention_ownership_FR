@@ -46,7 +46,7 @@ L'implémentation technique complète (architecture SQL, règles de calcul, cont
 
 Le système a été validé sur un dataset e-commerce réel (UK Online Retail).
 
-**[Voir les résultats de validation](https://github.com/78381507/customer_retention_ownership_FR/blob/main/File_04_Validation/validation_resultats.md)**
+**[Voir les résultats de validation](https://github.com/78381507/customer_retention_ownership_FR/blob/main/File_04_Test_Resultats/validation_systeme.md)**
 
 - 397 884 transactions analysées
 - 4 338 clients segmentés
