@@ -42,7 +42,20 @@ L'implémentation technique complète (architecture SQL, règles de calcul, cont
 
 ---
 
-## 📊 Visualisation
+## Validation
+
+Le système a été validé sur un dataset e-commerce réel (UK Online Retail).
+
+**[Voir les résultats de validation](https://github.com/78381507/customer_retention_ownership_FR/blob/main/File_04_Validation/validation_resultats.md)**
+
+- 397 884 transactions analysées
+- 4 338 clients segmentés
+- 5 couches SQL exécutées avec succès
+- 708 clients ACTIFS identifiés à risque (early warning)
+
+---
+
+## Visualisation
 
 ![Architecture du système](https://github.com/78381507/customer_retention_ownership_FR/blob/main/File_03_Docs/retention_pipeline_FR.png)
 
@@ -50,7 +63,7 @@ L'implémentation technique complète (architecture SQL, règles de calcul, cont
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **François Tilkin**  
 Data Analyst | Customer Retention Ownership  
