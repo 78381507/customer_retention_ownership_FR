@@ -20,17 +20,9 @@ Cette approche coûte cher : réactiver un client désengagé coûte 5 à 7 fois
 
 Le système Customer Retention Ownership met en place une **architecture décisionnelle en 5 couches** qui suit le parcours du client de manière proactive :
 
-```
-FAITS (données stables)
-    ↓
-STATUT (ACTIF / À RISQUE / INACTIF)
-    ↓
-RISQUE (détection comportementale)
-    ↓
-TENDANCES (évolution des cohortes)
-    ↓
-ACTIONS (alertes automatisées)
-```
+---
+![schema](https://github.com/78381507/customer_retention_ownership_FR/blob/main/File_03_Docs/pipeline%20resume%20executif.png)
+---
 
 **Ce que cela change :**
 
